@@ -1,0 +1,8 @@
+{
+  "name": "rsapp",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
